@@ -1,0 +1,8 @@
+{
+  "name": "kChat",
+  "app_id": "88f9325e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
